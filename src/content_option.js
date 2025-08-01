@@ -16,7 +16,7 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "I'm a 15-year-old student at North London Grammar School, eager to dive deep into backend development, cybersecurity, and mobile apps. I’m preparing myself for a future in tech and aiming to study Computer Science at Oxford University.",
+    aboutme: "I’m 15 and passionate about backend development, cybersecurity, and mobile apps. I love coding, learning, and experimenting with new ideas.",
 };
 
 const worktimeline = [
