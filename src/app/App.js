@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from "@vercel/analytics/react"; // ✅ burada import
 
 import {
   BrowserRouter as Router,
@@ -9,7 +9,7 @@ import {
 import withRouter from "../hooks/withRouter";
 import AppRoutes from "./routes";
 import Headermain from "../header";
-import AnimatedCursor  from "../hooks/AnimatedCursor";
+import AnimatedCursor from "../hooks/AnimatedCursor";
 import "./App.css";
 
 function _ScrollToTop(props) {
@@ -38,6 +38,9 @@ export default function App() {
         <Headermain />
         <AppRoutes />
       </ScrollToTop>
+
+      {/* ✅ Analytics burada, <Router> içinde ama en dışta */}
+      <Analytics />
     </Router>
   );
 }
