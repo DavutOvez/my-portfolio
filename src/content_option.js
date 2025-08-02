@@ -27,6 +27,11 @@ const worktimeline = [
         date: "2025",
     },
     {
+        jobtitle: "LMS - Learning Management System",
+        where: "Course Project",
+        date: "2025",
+    },
+    {
         jobtitle: "EduStat - Study Time Tracker",
         where: "Personal Project",
         date: "2025",
