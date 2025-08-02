@@ -32,6 +32,16 @@ const worktimeline = [
         date: "2025",
     },
     {
+        jobtitle: "Calculator - Mobile Flutter App",
+        where: "Personal Project",
+        date: "2025",
+    },
+    {
+        jobtitle: "Task Manager - Mobile Flutter App",
+        where: "Personal Project",
+        date: "2025",
+    },
+    {
         jobtitle: "EduStat - Study Time Tracker",
         where: "Personal Project",
         date: "2025",
