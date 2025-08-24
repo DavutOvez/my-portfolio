@@ -22,8 +22,8 @@ const dataabout = {
 const worktimeline = [
 
     {
-        jobtitle: "Cheffit - Tinder for recipes",
-        where: "Hackathon Project",
+        jobtitle: "Cheffit - Tinder for Recipes (Winner)",
+        where: "PeddieHacks 2025 Hackathon",
         date: "2025",
     },
     {
