@@ -1,7 +1,7 @@
 const logotext = "Davut Ovezov";
 const meta = {
     title: "Davut Ovezov",
-    description: "I’m Davut Ovezov, aspiring cybersecurity analyst and backend developer, currently studying in London.",
+    description: "I’m Davut Ovezov, aspiring  backend developer.",
 };
 const introdata = {
     title: "I’m Davut Ovezov",
@@ -16,7 +16,7 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "I’m 15 and passionate about backend development, cybersecurity, and mobile apps. I love coding, learning, and experimenting with new ideas.",
+    aboutme: "I’m 15 and passionate about backend development, and mobile apps. I love coding, learning, and experimenting with new ideas.",
 };
 
 const worktimeline = [
