@@ -7,8 +7,8 @@ const introdata = {
     title: "I’m Davut Ovezov",
     animated: {
         first: "Junior Backend Developer",
-        second: "Cybersecurity Enthusiast",
-        third: "Flutter Mobile Developer",
+        second: "Flutter Mobile Developer",
+        third: "",
     },
     description: "I’m a student passionate about coding .",
     your_img_url: "/react-portfolio/src/assets/images/IMG_3360_2.jpg", 
