@@ -18,7 +18,7 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "I’m a high school student passionate about backend development and mobile apps, with hands-on experience in Python/Django and Flutter/Dart. I’ve collaborated on projects like Cheffit—our winning app at PeddieHacks 2025—and built systems such as an airline reservation system and an LMS. Outside of coding, I enjoy gym training, playing chess, and reading books.",
+    aboutme: "I’m a high school student passionate about backend development and mobile apps, with hands-on experience in Django and Flutter. I’ve collaborated on projects like Cheffit—our winning app at PeddieHacks 2025—and built systems such as an airline reservation system and an LMS. Outside of coding, I enjoy gym training, playing chess, and reading books.",
 };
 
 const worktimeline = [
