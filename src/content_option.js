@@ -8,7 +8,7 @@ const meta = {
 const introdata = {
     title: "I’m Davut Ovezov",
     animated: {
-        first: "Junior Backend Developer",
+        first: "Backend Developer",
         second: "Flutter Mobile Developer",
         third: "Hackathon Winner",
     },
