@@ -55,7 +55,7 @@ const worktimeline = [
 ];
 
 const skills = [
-    { name: "Python", value: 85 },
+    { name: "Python", value: 90 },
     { name: "Django", value: 80 },
     { name: "Flutter", value: 65 },
     { name: "Dart", value: 60 },
