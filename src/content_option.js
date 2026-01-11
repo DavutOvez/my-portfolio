@@ -1,27 +1,29 @@
 const logotext = "Davut Ovezov";
+
 const meta = {
     title: "Davut Ovezov",
-    description: "I’m Davut Ovezov, aspiring  backend developer.",
+    description: "I’m Davut Ovezov, an aspiring backend developer.",
 };
+
 const introdata = {
-    title: "I’m Davutmyrat Ovezov",
+    title: "I’m Davut Ovezov",
     animated: {
         first: "Junior Backend Developer",
         second: "Flutter Mobile Developer",
         third: "Hackathon Winner",
     },
-    description: "High school student passionate about coding, experienced in Python/Django and Flutter. Projects include Cheffit (PeddieHacks 2025 winner), airline reservation system, LMS, and Flutter apps. Outside of coding, I enjoy gym, chess, and reading books.",
-    your_img_url: "/react-portfolio/src/assets/images/IMG_3360_2.jpg", 
+    description: "High school student passionate about coding, with hands-on experience in Python/Django and Flutter. Built real-world projects including a hackathon-winning app and multiple backend systems.",
+    your_img_url: "/assets/images/IMG_3360_2.jpg",
 };
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "I’m 15, passionate about backend development and mobile apps, with hands-on experience in Python/Django and Flutter/Dart. I’ve collaborated on projects like Cheffit—our winning app at PeddieHacks 2025—and built systems like airline reservation and LMS apps. Outside of coding, I enjoy gym, chess, and reading books.",
+    aboutme: "I’m a high school student passionate about backend development and mobile apps, with hands-on experience in Python/Django and Flutter/Dart. I’ve collaborated on projects like Cheffit—our winning app at PeddieHacks 2025—and built systems such as an airline reservation system and an LMS. Outside of coding, I enjoy gym training, playing chess, and reading books.",
 };
 
 const worktimeline = [
     {
-        jobtitle: "Cheffit - Tinder for Recipes (Winner)",
+        jobtitle: "Cheffit – Tinder for Recipes (Winner)",
         where: "PeddieHacks 2025 Hackathon",
         date: "2025",
     },
@@ -31,49 +33,35 @@ const worktimeline = [
         date: "2025",
     },
     {
-        jobtitle: "LMS - Learning Management System",
+        jobtitle: "LMS – Learning Management System",
         where: "Django Course Project",
         date: "2025",
     },
     {
-        jobtitle: "Calculator - Flutter Mobile App",
+        jobtitle: "Calculator – Flutter Mobile App",
         where: "Personal Project",
         date: "2025",
     },
     {
-        jobtitle: "Task Manager - Flutter Mobile App",
+        jobtitle: "Task Manager – Flutter Mobile App",
         where: "Personal Project",
         date: "2025",
     },
     {
-        jobtitle: "EduStat - Study Time Tracker",
+        jobtitle: "EduStat – Study Time Tracker",
         where: "Personal Project",
         date: "2025",
     },
 ];
 
 const skills = [
-    {
-        name: "Python",
-        value: 85,
-    },
-    {
-        name: "Django",
-        value: 80,
-    },
-    {
-        name: "Flutter",
-        value: 65,
-    },
-    {
-        name: "Dart",
-        value: 60,
-    },
-    {
-        name: "JavaScript",
-        value: 50,
-    },
+    { name: "Python", value: 85 },
+    { name: "Django", value: 80 },
+    { name: "Flutter", value: 65 },
+    { name: "Dart", value: 60 },
+    { name: "JavaScript", value: 50 },
 ];
+
 const services = [
     {
         title: "Backend Development",
@@ -93,17 +81,17 @@ const dataportfolio = [
     },
     {
         img: "https://via.placeholder.com/400x200?text=Airline+Reservation+System",
-        description: "A Django-powered airline reservation system developed as a course project, focusing on backend logic and data handling.",
+        description: "A Django-powered airline reservation system focusing on backend logic and data handling.",
         link: "#",
     },
     {
         img: "https://via.placeholder.com/400x200?text=LMS",
-        description: "A Learning Management System with a Django backend, handling users, courses, and content management.",
+        description: "A Learning Management System with a Django backend for managing users, courses, and content.",
         link: "#",
     },
     {
         img: "https://via.placeholder.com/400x200?text=EduStat",
-        description: "EduStat — a study time tracking application designed to help students analyze and improve their study habits.",
+        description: "EduStat — a study time tracking app designed to help students analyze and improve study habits.",
         link: "#",
     },
 ];
