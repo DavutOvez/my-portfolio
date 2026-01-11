@@ -12,7 +12,7 @@ const introdata = {
         second: "Flutter Mobile Developer",
         third: "Hackathon Winner",
     },
-    description: "High school student passionate about coding, with hands-on experience in Python/Django and Flutter. Built real-world projects including a hackathon-winning app and multiple backend systems.",
+    description: "High school student passionate about coding, with hands-on experience in Django and Flutter. Built real-world projects including a hackathon-winning app and multiple backend systems.",
     your_img_url: "/assets/images/IMG_3360_2.jpg",
 };
 
